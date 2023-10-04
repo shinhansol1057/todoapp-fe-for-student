@@ -47,6 +47,7 @@ body{
   color: lightblue;
   margin: 10px;
 }
+
 .button-delete:hover{
   background-color: lightblue;
   color: #ffffff;
